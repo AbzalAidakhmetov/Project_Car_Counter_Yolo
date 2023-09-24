@@ -35,6 +35,5 @@ Extensive testing and evaluation of this implementation on highway footage from 
 
 This GitHub repository serves as a comprehensive solution for real-time car counting on highways, harnessing the power of the YOLOv8n object detection framework, the SORT tracking algorithm, and an intelligent region masking strategy to enhance model accuracy. It stands as a valuable resource for researchers and practitioners interested in traffic analysis and surveillance applications.
 
-[Screencast from 09-11-2023 04:52:18 PM.webm](https://github.com/AbzalAidakhmetov/Project_Car_Counter_Yolo/assets/99760649/5d80a65e-3fd9-4a54-9f2a-c491db812f35)
-
+[car_counter.webm](https://github.com/AbzalAidakhmetov/Project_Car_Counter_Yolo/assets/99760649/ffbc7c74-3dbc-472f-9a16-d6ed13778ba3)
 
